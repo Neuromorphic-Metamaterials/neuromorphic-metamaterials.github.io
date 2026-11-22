@@ -1,0 +1,226 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Tunes | Neuromorphic Metamaterials</title>
+<meta name="description" content="Music from the group: Jack Gartside's releases as SDOU and Son of Kent, mixes, and Kestrel Explorations on NTS Radio.">
+<meta name="theme-color" content="#0c1d31">
+<meta property="og:title" content="Tunes | Neuromorphic Metamaterials">
+<meta property="og:description" content="Music from the group: Jack Gartside's releases as SDOU and Son of Kent, mixes, and Kestrel Explorations on NTS Radio.">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel="preload" href="fonts/FiraSans-Regular.woff" as="font" type="font/woff" crossorigin>
+<link rel="stylesheet" href="css/site.css">
+</head>
+<body>
+<header class="site-head">
+  <a class="mark" href="index.html"><svg viewBox="0 0 32 32" aria-hidden="true"><rect x="2" y="14" width="10" height="4" rx="2"/><rect x="20" y="14" width="10" height="4" rx="2"/><rect x="14" y="2" width="4" height="10" rx="2"/><rect x="14" y="20" width="4" height="10" rx="2"/><circle cx="16" cy="16" r="2.4"/></svg><span>Neuromorphic Metamaterials</span></a>
+  <nav aria-label="Main">
+    <a href="research.html">Research</a>
+    <a href="publications.html">Publications</a>
+    <a href="people.html">People</a>
+    <a href="join.html">Join us</a>
+    <a href="music.html" aria-current="page">Tunes</a>
+  </nav>
+</header>
+
+<!-- Live background: one of three simulations is picked at random on each page load (js/fields.js). -->
+<section class="field band">
+  <canvas id="field" aria-hidden="true"></canvas>
+  <div class="field-text">
+    <div>
+      <h1>Tunes</h1>
+    </div>
+    <div class="field-note" aria-live="polite">
+      <p><strong id="field-name">Live simulation</strong>, running in your browser.</p>
+      <p id="field-caption"></p>
+      <button type="button" id="field-next">Show another system</button>
+    </div>
+  </div>
+</section>
+
+<main>
+  <section class="block intro-split">
+    <div>
+      <p class="statement">We make music too, life's not only about Science!</p>
+      <div class="prose follow">
+        <p>Here are some of Jack's releases, mixes, and &ldquo;Kestrel Explorations&rdquo; radio shows on NTS.</p>
+        <p class="profiles">
+          <a href="https://soundcloud.com/scientific-dreamz-of-u">SoundCloud</a>&ensp;
+          <a href="https://www.discogs.com/search?q=Scientific+Dreamz+Of+U&amp;type=artist">Discogs</a>&ensp;
+          <a href="https://www.nts.live/artists/15275-scientific-dreamz-of-u">NTS</a>&ensp;
+          <a href="https://1080pcollection.bandcamp.com/album/the-dreamcode">Bandcamp</a>
+        </p>
+      </div>
+    </div>
+    <img class="artist-photo" src="assets/music/sdou.jpg" alt="Jack Gartside, as SDOU, in front of a graffiti wall">
+  </section>
+
+  <!-- Tiles: YouTube videos and Bandcamp/SoundCloud tracks. Edit TILES in the generator, or copy a <figure>. -->
+  <section class="block" id="listen">
+    <h2 class="section-title">Videos and tracks</h2>
+    <div class="videos">
+      <figure class="video">
+        <button type="button" class="video-play" data-id="ulvnwAEaYJo" aria-label="Play Monopole Vortex Field {Dirac Sea Re-Immersion}" style="background-image:url('https://i.ytimg.com/vi/ulvnwAEaYJo/hqdefault.jpg')"></button>
+        <figcaption><span class="name">Monopole Vortex Field {Dirac Sea Re-Immersion}</span><span class="topic">Tabernacle Records, 2014</span></figcaption>
+      </figure>
+      <figure class="video">
+        <button type="button" class="video-play audio" data-bc="1096609629" aria-label="Play West of Medway"><span class="cover-artist">Son of Kent</span><span class="cover-title">West of Medway</span></button>
+        <figcaption><span class="name">West of Medway</span><span class="topic">beam, 2025. Audio via Bandcamp</span></figcaption>
+      </figure>
+      <figure class="video">
+        <button type="button" class="video-play" data-id="dA4yf7fZ5_o" aria-label="Play R-Zone 11" style="background-image:url('https://i.ytimg.com/vi/dA4yf7fZ5_o/hqdefault.jpg')"></button>
+        <figcaption><span class="name">R-Zone 11</span><span class="topic">R-Zone, RZONE011, 2014</span></figcaption>
+      </figure>
+      <figure class="video">
+        <button type="button" class="video-play audio" data-sc="https://soundcloud.com/platform/scientific-dreamz-of-u" aria-label="Play Boiler Room London"><span class="cover-artist">SDOU</span><span class="cover-title">Boiler Room London</span></button>
+        <figcaption><span class="name">Boiler Room London</span><span class="topic">DJ set, 2015. Audio via SoundCloud</span></figcaption>
+      </figure>
+      <figure class="video">
+        <button type="button" class="video-play" data-id="srzIjc5Fc3c" aria-label="Play New Dreamz of the Flesh" style="background-image:url('https://i.ytimg.com/vi/srzIjc5Fc3c/hqdefault.jpg')"></button>
+        <figcaption><span class="name">New Dreamz of the Flesh</span><span class="topic">Tabernacle Records, 2016</span></figcaption>
+      </figure>
+      <figure class="video">
+        <button type="button" class="video-play" data-id="pS8uWK7Nqr4" aria-label="Play Disintegration Rhythm" style="background-image:url('https://i.ytimg.com/vi/pS8uWK7Nqr4/hqdefault.jpg')"></button>
+        <figcaption><span class="name">Disintegration Rhythm</span><span class="topic">Tabernacle Records, 2016</span></figcaption>
+      </figure>
+      <figure class="video">
+        <button type="button" class="video-play" data-id="hk65u_q1dJk" aria-label="Play Dreamz of a Psychic Europe" style="background-image:url('https://i.ytimg.com/vi/hk65u_q1dJk/hqdefault.jpg')"></button>
+        <figcaption><span class="name">Dreamz of a Psychic Europe</span><span class="topic">Tabernacle Records, 2016</span></figcaption>
+      </figure>
+      <figure class="video">
+        <button type="button" class="video-play" data-id="zcoN6_qKxaU" aria-label="Play Levitation ~ Holography" style="background-image:url('https://i.ytimg.com/vi/zcoN6_qKxaU/hqdefault.jpg')"></button>
+        <figcaption><span class="name">Levitation ~ Holography</span><span class="topic">1080p, 2015</span></figcaption>
+      </figure>
+      <figure class="video">
+        <button type="button" class="video-play" data-id="uvz0Krm9v4s" aria-label="Play Spatial Phase Inversion" style="background-image:url('https://i.ytimg.com/vi/uvz0Krm9v4s/hqdefault.jpg')"></button>
+        <figcaption><span class="name">Spatial Phase Inversion</span><span class="topic">Bokhari Records, 2014</span></figcaption>
+      </figure>
+      <figure class="video">
+        <button type="button" class="video-play audio" data-bc="2748619946" aria-label="Play Mystic Revelation of Science"><span class="cover-artist">SDOU</span><span class="cover-title">Mystic Revelation of Science</span></button>
+        <figcaption><span class="name">Mystic Revelation of Science</span><span class="topic">Bokhari Records, 2014. Audio via Bandcamp</span></figcaption>
+      </figure>
+      <figure class="video">
+        <button type="button" class="video-play" data-id="S4JfZxxxC5Y" aria-label="Play Deep Belief Network (Neural Grid Optimization)" style="background-image:url('https://i.ytimg.com/vi/S4JfZxxxC5Y/hqdefault.jpg')"></button>
+        <figcaption><span class="name">Deep Belief Network (Neural Grid Optimization)</span><span class="topic">SDOU</span></figcaption>
+      </figure>
+    </div>
+  </section>
+
+  <section class="block" id="mixes">
+    <h2 class="section-title">Mixes</h2>
+    <iframe class="sc-player" title="SDOU mixes on SoundCloud" loading="lazy" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/scientific-dreamz-of-u/sets/mixes&amp;color=%23f2a94b&amp;auto_play=false&amp;hide_related=true&amp;show_comments=false&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=false&amp;visual=true"></iframe>
+    <ol class="pubs mixes">
+      <li><a class="title" href="https://soundcloud.com/platform/scientific-dreamz-of-u">Boiler Room London, 2015</a></li>
+      <li><a class="title" href="https://soundcloud.com/cxemcast/cxemcast-071-scientific-dreamz-of-u?in=scientific-dreamz-of-u/sets/mixes">Cxemcast 071</a></li>
+      <li><a class="title" href="https://soundcloud.com/scientific-dreamz-of-u/sdou-4-hessle-rinse-fm?in=scientific-dreamz-of-u/sets/mixes">SDOU 4 Hessle, Rinse FM</a></li>
+      <li><a class="title" href="https://soundcloud.com/scientific-dreamz-of-u/air-on-the-dirac-strings?in=scientific-dreamz-of-u/sets/mixes">Air on a Dirac String</a></li>
+      <li><a class="title" href="https://soundcloud.com/zeezout/zeezout-podcast-096-scientifc-dreamz-of-u?in=scientific-dreamz-of-u/sets/mixes">Zeezout Podcast 096</a></li>
+    </ol>
+    <p class="rel-links"><a href="https://soundcloud.com/scientific-dreamz-of-u/sets/mixes">Full playlist on SoundCloud</a></p>
+  </section>
+
+  <!-- Releases: copy an <li> to add one; copy a .pub-year block for a new year. Newest first. -->
+  <section class="block" id="releases">
+    <h2 class="section-title">SDOU releases</h2>
+
+    <div class="pub-year">
+      <h2>2020</h2>
+      <ol class="pubs">
+        <li>
+          <span class="title">Self-Assembly of Myriad Heterostructures</span>
+          <p class="meta">SDOU <span class="journal">Pinkman Broken Dreams, PBD16, 12 inch</span></p>
+          <p class="tracks">Self-Assembly of Myriad Heterostructures; Mick Wills Remix; Dance Mix</p>
+          <p class="rel-links"><a href="https://pinkman.bandcamp.com/">Bandcamp</a>&ensp; <a href="https://www.discogs.com/search?q=Scientific+Dreamz+Of+U+Self+Assembly&type=release">Discogs</a></p>
+        </li>
+      </ol>
+    </div>
+
+    <div class="pub-year">
+      <h2>2016</h2>
+      <ol class="pubs">
+        <li>
+          <span class="title">Afloat, On Complex Wings</span>
+          <p class="meta">SDOU <span class="journal">Tabernacle Records, TABR035, 12 inch EP</span></p>
+          <p class="tracks">Disintegration Rhythm; Dreamz of a Psychic Europe; Precision Monolithics {Nitebar Adjustment}; New Dreamz of the Flesh</p>
+          <p class="rel-links"><a href="https://tabernaclerecords.bandcamp.com/merch/tabr035-scientific-dreamz-of-u-afloat-on-complex-wings">Bandcamp</a>&ensp; <a href="https://www.discogs.com/release/8153466-Scientific-Dreamz-Of-U-Afloat-On-Complex-Wings">Discogs</a>&ensp; <a href="https://www.youtube.com/watch?v=pS8uWK7Nqr4">YouTube</a></p>
+        </li>
+      </ol>
+    </div>
+
+    <div class="pub-year">
+      <h2>2015</h2>
+      <ol class="pubs">
+        <li>
+          <span class="title">The Dreamcode</span>
+          <p class="meta">Junior Loves and SDOU <span class="journal">1080p, 1080P40, cassette and digital</span></p>
+          <p class="tracks">Split album. SDOU side: Precision Monolithics; Sacred Fractal Geometry; Ascension Protocol {Emancipation in the Grid}; Empathy Field Generation {7AM Affirmation}; Levitation ~ Holography</p>
+          <p class="rel-links"><a href="https://1080pcollection.bandcamp.com/album/the-dreamcode">Bandcamp</a>&ensp; <a href="https://www.discogs.com/release/6895227-Junior-Loves-Scientific-Dreamz-Of-U-The-Dreamcode">Discogs</a>&ensp; <a href="https://www.youtube.com/watch?v=zcoN6_qKxaU">YouTube</a></p>
+        </li>
+      </ol>
+    </div>
+
+    <div class="pub-year">
+      <h2>2014</h2>
+      <ol class="pubs">
+        <li>
+          <span class="title">R-Zone 11</span>
+          <p class="meta">SDOU, released anonymously on R-Zone <span class="journal">R-Zone, RZONE011, 12 inch</span></p>
+          <p class="tracks">Visions of a Deepweb; Xochis Awakening; Positive Sequence</p>
+          <p class="rel-links"><a href="https://r-zone.bandcamp.com/">Bandcamp</a>&ensp; <a href="https://www.discogs.com/release/6336351-R-Zone-R-Zone-11">Discogs</a>&ensp; <a href="https://www.youtube.com/watch?v=dA4yf7fZ5_o">YouTube</a></p>
+        </li>
+        <li>
+          <span class="title">Spatial Phase Inversion</span>
+          <p class="meta">SDOU <span class="journal">Bokhari Records, BK009, 12 inch</span></p>
+          <p class="tracks">Spatial Phase Inversion; Mystic Revelation of Science; Mystic Revelation of Science (Black Merlin's Extended Sword Mix)</p>
+          <p class="rel-links"><a href="https://bokharirecords.bandcamp.com/album/spatial-phase-inversion">Bandcamp</a>&ensp; <a href="https://www.discogs.com/release/5667164-Scientific-Dreamz-Of-U-Spatial-Phase-Inversion">Discogs</a>&ensp; <a href="https://www.youtube.com/watch?v=uvz0Krm9v4s">YouTube</a></p>
+        </li>
+        <li>
+          <span class="title">Visionz of an Abstract Plane</span>
+          <p class="meta">SDOU <span class="journal">Tabernacle Records, TABR026, 12 inch</span></p>
+          <p class="tracks">Monopole Vortex Field {Dirac Sea Re-Immersion}; Journey In2 the Light {Self-healing &amp; Re-birth}; Lost Trax Decay &amp; Bleed Mix</p>
+          <p class="rel-links"><a href="https://www.discogs.com/release/5636089-Scientific-Dreamz-Of-U-Visionz-Of-An-Abstract-Plane-">Discogs</a>&ensp; <a href="https://www.youtube.com/watch?v=ulvnwAEaYJo">YouTube</a></p>
+        </li>
+      </ol>
+    </div>
+
+  </section>
+
+  <section class="block" id="son-of-kent">
+    <h2 class="section-title">Son of Kent</h2>
+    <div class="pub-year">
+      <h2>2025</h2>
+      <ol class="pubs">
+        <li>
+          <a class="title" href="https://beam-records.bandcamp.com/track/west-of-medway">West of Medway</a>
+          <p class="meta">Son of Kent <span class="journal">beams vol. 1, beam, July 2025</span></p>
+          <p class="rel-links"><a href="https://beam-records.bandcamp.com/track/west-of-medway">Bandcamp</a>&ensp; <a href="https://beam-records.bandcamp.com/album/beams-vol-1">Full compilation</a></p>
+        </li>
+      </ol>
+    </div>
+  </section>
+
+  <section class="block" id="kestrel">
+    <div class="theme-section" style="border-top:0;padding-top:0">
+      <h2>Kestrel Explorations</h2>
+      <div class="prose">
+        <p>A monthly show on NTS Radio with Junior Loves, running from 2013, touching on dub, techno and more. Below are the SDOU shows.</p>
+        <p><a href="https://www.nts.live/shows/kestrel-explorations">Full archive on NTS</a></p>
+        <ol class="pubs episodes">
+      <li><a class="title" href="https://www.nts.live/shows/kestrel-explorations/episodes/kestrel-explorations-10th-april-2019">10 April 2019</a><p class="meta">SDOU</p></li>
+      <li><a class="title" href="https://www.nts.live/shows/kestrel-explorations/episodes/kestrel-explorations-13th-february-2019">13 February 2019</a><p class="meta">SDOU</p></li>
+        </ol>
+      </div>
+    </div>
+  </section>
+</main>
+<script src="js/music.js"></script>
+
+<footer class="site-foot">
+  <p><strong>Neuromorphic Metamaterials</strong><br>Department of Physics<br>Imperial College London</p>
+  <p>Blackett Laboratory<br>South Kensington Campus<br>London SW7 2AZ</p>
+  <p><a href="mailto:your.email@imperial.ac.uk">your.email@imperial.ac.uk</a><br><a href="#">Google Scholar</a></p>
+</footer>
+<script src="js/fields.js"></script>
+</body>
+</html>
