@@ -1,0 +1,308 @@
+[
+{
+"year": 2026,
+"title": "Enhanced magneto-optical Kerr effect in nano-magnetic metamaterials with near-perfect coherent absorption",
+"authors": "X.-F. Xiao, T. Zheng, A. Vanstone, D. Bromley, H. H. Holder, K. D. Stenning, J. C. Gartside, W. R. Branford, R. F. Oulton",
+"journal": "ACS Nano",
+"vol": "20, 29188",
+"doi": "10.1021/acsnano.6c15462",
+"arxiv": "2610.09917"
+},
+{
+"year": 2026,
+"title": "Graph-theoretic design of lasing networks for physical vision",
+"authors": "P. Obernolte, J. Dranczewski, Y. Yin, T. Farchy, W.-K. Ng, T. Simonsen, E. Großhauser, A. Arnaudon, R. Peach, M. Barahona, R. Sapienza, J. C. Gartside, T. V. Raziman",
+"journal": "arXiv",
+"vol": "",
+"doi": "",
+"arxiv": "2608.13097"
+},
+{
+"year": 2026,
+"title": "Magnetoelastic coupling in stripe-domain states of yttrium iron garnet",
+"authors": "N. Arora, D. Prestwood, T. Kikkawa, E. Saitoh, J. C. Gartside, W. R. Branford, H. Kurebayashi",
+"journal": "arXiv",
+"vol": "",
+"doi": "",
+"arxiv": "2608.08353"
+},
+{
+"year": 2026,
+"title": "Low-power analogue neural networks with trainable nonlinear connections for continuous control",
+"authors": "I. T. Vidamour, F. Aguirre, T. J. Hayward, M. O. A. Ellis, C. Swindells, A. C. McDonnell, M. Trefzer, F. Robins, L. Manneschi, S. Stepney, T. Kenyon, O. J. Sutton, J. C. Gartside, I. Tyukin, A. Mehonic, E. Vasilaki",
+"journal": "arXiv",
+"vol": "",
+"doi": "",
+"arxiv": "2606.23742"
+},
+{
+"year": 2026,
+"title": "Learning nonlinear heterogeneity in physical Kolmogorov-Arnold networks",
+"authors": "F. Taglietti, A. Pulici, M. Roxburgh, G. Seguini, I. T. Vidamour, S. Menzel, E. Franco, M. Laus, E. Vasilaki, M. Perego, T. J. Hayward, M. Fanciulli, J. C. Gartside",
+"journal": "Science Advances",
+"vol": ", accepted",
+"doi": "",
+"arxiv": "2601.15340"
+},
+{
+"year": 2026,
+"title": "Few-shot neuromorphic vision in a nonlinear photonic network laser",
+"authors": "W.-K. Ng, J. Dranczewski, A. Fischer, T. V. Raziman, D. Saxena, T. Farchy, K. D. Stenning, J. Peters, H. Schmid, W. R. Branford, M. Barahona, K. E. Moselund, R. Sapienza, J. C. Gartside",
+"journal": "Science Advances",
+"vol": "12",
+"doi": "10.1126/sciadv.aec6546",
+"arxiv": "2407.15558"
+},
+{
+"year": 2026,
+"title": "Metrics for spin-based computing",
+"authors": "H. Kurebayashi, G. Finocchio, K. Everschor-Sitte, J. C. Gartside, T. Taniguchi, A. Litvinenko, A. Kumar, J. Åkerman, E. Vasilaki, K. Selcuk, K. Y. Camsari, A. Madhavan, S. Fukami",
+"journal": "Nature Reviews Physics",
+"vol": "8, 208",
+"doi": "10.1038/s42254-025-00918-1",
+"arxiv": "2510.17653"
+},
+{
+"year": 2025,
+"title": "Noise-aware training of neuromorphic dynamic device networks",
+"authors": "L. Manneschi, I. T. Vidamour, K. D. Stenning, C. Swindells, G. Venkat, D. Griffin, L. Gui, D. Sonawala, D. Donskikh, D. Hariga, E. Donati, S. Stepney, W. R. Branford, J. C. Gartside, T. J. Hayward, M. O. A. Ellis, E. Vasilaki",
+"journal": "Nature Communications",
+"vol": "16",
+"doi": "10.1038/s41467-025-64232-1",
+"arxiv": "2401.07387"
+},
+{
+"year": 2025,
+"title": "Spin-wave resonance in yttrium iron garnet stripe domains",
+"authors": "D. Prestwood, C. Barker, K. D. Stenning, C. W. F. Freeman, T.-Y. Wei, T. Kikkawa, T. Dion, D. Stoeffler, Y. Henry, M. Bailleul, N. Naushad, W. Griggs, T. Thomson, M. Cubukcu, J. C. Gartside, E. Saitoh, W. R. Branford, H. Kurebayashi",
+"journal": "Physical Review B",
+"vol": "",
+"doi": "10.1103/c721-178b",
+"arxiv": "2505.08431"
+},
+{
+"year": 2025,
+"title": "Ice sculpting: an artificial spin ice tutorial on controlling microstate and geometry for magnonics and neuromorphic computing",
+"authors": "R. Sultana, A. Mondal, V. Bhat, K. D. Stenning, Y. Li, D. M. Arroo, A. Vasdev, M. McCarter, L. E. Long, J. Hastings, J. C. Gartside, M. B. Jungfleisch",
+"journal": "Journal of Applied Physics",
+"vol": "138",
+"doi": "10.1063/5.0274799",
+"arxiv": "2504.06548"
+},
+{
+"year": 2025,
+"title": "2025 roadmap on 3D nanomagnetism",
+"authors": "G. Gubbiotti, A. Barman, S. Ladak et al., including J. C. Gartside",
+"journal": "Journal of Physics: Condensed Matter",
+"vol": "37, 143502",
+"doi": "10.1088/1361-648X/ad9655",
+"arxiv": ""
+},
+{
+"year": 2026,
+"title": "Magnetic vortex writing and local reversal seeding in artificial spin-vortex ice via all-optical and surface-probe control",
+"authors": "H. Holder, A. J. Wright, A. Vanstone, T. Dion, X.-F. Xiao, K. D. Stenning, T. Zheng, D. Bromley, T. Farchy, J. C. Gartside, R. F. Oulton, W. R. Branford",
+"journal": "Physical Review B",
+"vol": "113, 184426",
+"doi": "10.1103/ldgl-qbxb",
+"arxiv": "2505.16874"
+},
+{
+"year": 2025,
+"title": "Plasmonic metasurfaces for magnetic skyrmion control via the inverse Faraday effect",
+"authors": "X.-Y. Yang, T. da Câmara Santa Clara Gomes, C. Hareau, Y. Mou, T. Zheng, M. Sanz-Paz, N. Reyren, J. C. Gartside, M. Mivelle",
+"journal": "arXiv",
+"vol": "",
+"doi": "",
+"arxiv": "2503.23800"
+},
+{
+"year": 2025,
+"title": "Synthetic spin-orbit coupling in superconductor-semiconductor hybrid nanowires with micromagnet arrays",
+"authors": "M. Hynes, D. Burke, K. Ganesh, A. Vekris, B. Villis, J. C. Gartside, T. Kanne, J. Nygård, K. Moors, W. R. Branford, M. Connolly, M. Buitelaar",
+"journal": "arXiv",
+"vol": "",
+"doi": "",
+"arxiv": "2505.06040"
+},
+{
+"year": 2024,
+"title": "Neuromorphic overparameterisation and few-shot learning in multilayer physical neural networks",
+"authors": "K. D. Stenning, J. C. Gartside, L. Manneschi, C. T. S. Cheung, T. Chen, A. Vanstone, J. Love, H. H. Holder, F. Caravelli, H. Kurebayashi, K. Everschor-Sitte, E. Vasilaki, W. R. Branford",
+"journal": "Nature Communications",
+"vol": "15",
+"doi": "10.1038/s41467-024-50633-1",
+"arxiv": "2211.06373"
+},
+{
+"year": 2024,
+"title": "Ultrastrong magnon-magnon coupling and chiral spin-texture control in a dipolar 3D multilayered artificial spin-vortex ice",
+"authors": "T. Dion, K. D. Stenning, A. Vanstone, H. H. Holder, R. Sultana, G. Alatteili, V. Martinez, M. T. Kaffash, T. Kimura, R. F. Oulton, W. R. Branford, H. Kurebayashi, E. Iacocca, M. B. Jungfleisch, J. C. Gartside",
+"journal": "Nature Communications",
+"vol": "15",
+"doi": "10.1038/s41467-024-48080-z",
+"arxiv": "2306.16159"
+},
+{
+"year": 2024,
+"title": "Task-adaptive physical reservoir computing",
+"authors": "O. Lee, T. Wei, K. D. Stenning, J. C. Gartside, D. Prestwood, S. Seki, A. Aqeel, K. Karube, N. Kanazawa, Y. Taguchi, C. Back, Y. Tokura, W. R. Branford, H. Kurebayashi",
+"journal": "Nature Materials",
+"vol": "23, 79",
+"doi": "10.1038/s41563-023-01698-8",
+"arxiv": "2209.06962"
+},
+{
+"year": 2024,
+"title": "Brillouin light scattering spectral fingerprinting of magnetic microstates in artificial spin ice",
+"authors": "A. Mondal, A. K. Chaurasiya, K. D. Stenning, A. Vanstone, J. C. Gartside, W. R. Branford, A. Barman",
+"journal": "Nano Today",
+"vol": "",
+"doi": "10.1016/j.nantod.2024.102497",
+"arxiv": ""
+},
+{
+"year": 2024,
+"title": "PRCpy: a Python package for processing of physical reservoir computing",
+"authors": "H. Youel, D. Prestwood, O. Lee, T. Wei, K. D. Stenning, J. C. Gartside, W. R. Branford, K. Everschor-Sitte, H. Kurebayashi",
+"journal": "arXiv",
+"vol": "",
+"doi": "",
+"arxiv": "2410.18356"
+},
+{
+"year": 2023,
+"title": "Gænice: a general model for magnon band structure of artificial spin ices",
+"authors": "G. Alatteili, V. Martinez, A. Roxburgh, J. C. Gartside, O. Heinonen, S. Gliga, E. Iacocca",
+"journal": "Journal of Magnetism and Magnetic Materials",
+"vol": "",
+"doi": "10.1016/j.jmmm.2023.171603",
+"arxiv": "2309.03826"
+},
+{
+"year": 2023,
+"title": "Low-power continuous-wave all-optical magnetic switching in ferromagnetic nanoarrays",
+"authors": "K. D. Stenning, X.-F. Xiao, H. H. Holder, J. C. Gartside, A. Vanstone, O. W. Kennedy, R. F. Oulton, W. R. Branford",
+"journal": "Cell Reports Physical Science",
+"vol": "4",
+"doi": "",
+"arxiv": "2112.00697"
+},
+{
+"year": 2023,
+"title": "From vertices to vortices in magnetic nanoislands",
+"authors": "M. Saccone, J. C. Gartside, K. D. Stenning, W. R. Branford, F. Caravelli",
+"journal": "Physics of Fluids",
+"vol": "35",
+"doi": "10.1063/5.0131158",
+"arxiv": "2208.06391"
+},
+{
+"year": 2022,
+"title": "Reconfigurable training and reservoir computing in an artificial spin-vortex ice via spin-wave fingerprinting",
+"authors": "J. C. Gartside, K. D. Stenning, A. Vanstone, H. H. Holder, D. M. Arroo, T. Dion, F. Caravelli, H. Kurebayashi, W. R. Branford",
+"journal": "Nature Nanotechnology",
+"vol": "17, 460",
+"doi": "10.1038/s41565-022-01091-7",
+"arxiv": "2107.08941"
+},
+{
+"year": 2022,
+"title": "Spectral fingerprinting: microstate readout via remanence ferromagnetic resonance in artificial spin ice",
+"authors": "A. Vanstone, J. C. Gartside, K. D. Stenning, T. Dion, D. M. Arroo, W. R. Branford",
+"journal": "New Journal of Physics",
+"vol": "24",
+"doi": "10.1088/1367-2630/ac608b",
+"arxiv": "2106.04406"
+},
+{
+"year": 2022,
+"title": "Observation and control of collective spin-wave mode hybridization in chevron arrays and in square, staircase, and brickwork artificial spin ices",
+"authors": "T. Dion, J. C. Gartside, A. Vanstone, K. D. Stenning, D. M. Arroo, H. Kurebayashi, W. R. Branford",
+"journal": "Physical Review Research",
+"vol": "4",
+"doi": "10.1103/physrevresearch.4.013107",
+"arxiv": "2112.05354"
+},
+{
+"year": 2021,
+"title": "Reconfigurable magnonic mode-hybridisation and spectral control in a bicomponent artificial spin ice",
+"authors": "J. C. Gartside, A. Vanstone, T. Dion, K. D. Stenning, D. M. Arroo, H. Kurebayashi, W. R. Branford",
+"journal": "Nature Communications",
+"vol": "12",
+"doi": "10.1038/s41467-021-22723-x",
+"arxiv": "2101.07767"
+},
+{
+"year": 2021,
+"title": "Comparison of spin-wave modes in connected and disconnected artificial spin ice nanostructures using Brillouin light scattering spectroscopy",
+"authors": "A. K. Chaurasiya, A. K. Mondal, J. C. Gartside, K. D. Stenning, A. Vanstone, S. Barman, W. R. Branford, A. Barman",
+"journal": "ACS Nano",
+"vol": "15, 11734",
+"doi": "10.1021/acsnano.1c02537",
+"arxiv": "2101.12619"
+},
+{
+"year": 2021,
+"title": "Magnonic bending, phase shifting and interferometry in a 2D reconfigurable nanodisk crystal",
+"authors": "K. D. Stenning, J. C. Gartside, T. Dion, A. Vanstone, D. M. Arroo, W. R. Branford",
+"journal": "ACS Nano",
+"vol": "15, 674",
+"doi": "10.1021/acsnano.0c06894",
+"arxiv": "2008.06451"
+},
+{
+"year": 2020,
+"title": "Current-controlled nanomagnetic writing for reconfigurable magnonic crystals",
+"authors": "J. C. Gartside, S. G. Jung, S. Y. Yoo, D. M. Arroo, A. Vanstone, T. Dion, K. D. Stenning, W. R. Branford",
+"journal": "Communications Physics",
+"vol": "3",
+"doi": "10.1038/s42005-020-00487-y",
+"arxiv": "2004.14709"
+},
+{
+"year": 2019,
+"title": "Sculpting the spin-wave response of artificial spin ice via microstate selection",
+"authors": "D. M. Arroo, J. C. Gartside, W. R. Branford",
+"journal": "Physical Review B",
+"vol": "100",
+"doi": "10.1103/PhysRevB.100.214425",
+"arxiv": "1805.01397"
+},
+{
+"year": 2019,
+"title": "Tunable magnetization dynamics in artificial spin ice via shape anisotropy modification",
+"authors": "T. Dion, D. M. Arroo, K. Yamanoi, T. Kimura, J. C. Gartside, L. F. Cohen, H. Kurebayashi, W. R. Branford",
+"journal": "Physical Review B",
+"vol": "100",
+"doi": "10.1103/physrevb.100.054433",
+"arxiv": ""
+},
+{
+"year": 2018,
+"title": "Realization of ground state in artificial kagome spin ice via topological defect-driven magnetic writing",
+"authors": "J. C. Gartside, D. M. Arroo, D. M. Burn, V. L. Bemmer, A. Moskalenko, L. F. Cohen, W. R. Branford",
+"journal": "Nature Nanotechnology",
+"vol": "13, 53",
+"doi": "10.1038/s41565-017-0002-1",
+"arxiv": "1704.07439"
+},
+{
+"year": 2016,
+"title": "A novel method for the injection and manipulation of magnetic charge states in nanostructures",
+"authors": "J. C. Gartside, D. M. Burn, L. F. Cohen, W. R. Branford",
+"journal": "Scientific Reports",
+"vol": "6",
+"doi": "10.1038/srep32864",
+"arxiv": "1604.06374"
+},
+{
+"year": 2014,
+"title": "Scattering mechanisms in textured FeGe thin films: magnetoresistance and the anomalous Hall effect",
+"authors": "N. A. Porter, J. C. Gartside, C. H. Marrows",
+"journal": "Physical Review B",
+"vol": "90, 024403",
+"doi": "10.1103/PhysRevB.90.024403",
+"arxiv": "1402.1276"
+}
+]

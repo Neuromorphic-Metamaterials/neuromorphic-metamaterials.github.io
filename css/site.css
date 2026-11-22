@@ -226,3 +226,38 @@ h3 { font-weight: 500; font-size: 20px; line-height: 1.3; letter-spacing: -.005e
 .pubs .authors { color: var(--paper-dim); font-size: 15px; line-height: 1.5; margin: 6px 0 2px; }
 .pubs .authors strong { color: var(--paper); font-weight: 500; }
 .notable li { margin-bottom: 30px; }
+
+/* team page */
+.team-grid { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(190px, 1fr)); gap: 36px 28px; max-width: 1180px; }
+.team-grid.small { grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); }
+.member-card { display: block; text-decoration: none; }
+.member-card img { display: block; width: 100%; aspect-ratio: 4 / 5; object-fit: cover; background: var(--prussian-2); margin-bottom: 12px; filter: saturate(.9); transition: filter .2s; }
+.member-card:hover img { filter: saturate(1.1); }
+.member-card .name { display: block; font-weight: 500; line-height: 1.3; }
+.member-card:hover .name { text-decoration: underline; text-decoration-color: var(--amber); text-underline-offset: .22em; }
+.member-card .topic { display: block; color: var(--paper-dim); font-size: 14.5px; line-height: 1.45; margin-top: 2px; }
+a.plain { text-decoration: none; }
+a.plain:hover { text-decoration: underline; text-decoration-color: var(--amber); }
+
+/* member pages */
+.member-head { display: grid; grid-template-columns: 260px minmax(0, 1fr); gap: 32px 56px; align-items: start; max-width: 1100px; }
+.member-head .photo { aspect-ratio: 4 / 5; }
+.member-head .role { color: var(--amber); margin: 0 0 6px; }
+.m-topics { font-size: 20px; font-weight: 300; line-height: 1.4; margin: 0 0 14px; }
+.m-links { margin: 0 0 28px; }
+.m-body { max-width: var(--measure); }
+.m-body h2 { font-size: 24px; margin: 36px 0 14px; }
+.m-body h3 { margin-top: 24px; }
+.m-body ul { padding-left: 1.2em; }
+.m-body iframe { max-width: 100%; border: 0; }
+.gallery { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 18px; margin: 18px 0 24px; max-width: 900px; }
+.gallery figure { margin: 0; }
+.gallery img { display: block; width: 100%; height: auto; }
+.gallery figcaption { color: var(--paper-dim); font-size: 14px; margin-top: 6px; }
+.m-body img { max-width: 100%; }
+.back { padding-top: 0 !important; }
+@media (max-width: 760px) {
+  .member-head { grid-template-columns: 1fr; }
+  .member-head .photo { max-width: 220px; }
+  .team-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 28px 18px; }
+}

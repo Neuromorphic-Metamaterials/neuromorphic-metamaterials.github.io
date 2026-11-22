@@ -50,3 +50,19 @@ The header and footer are repeated in each page; change them in all five files.
 - Google Scholar and ORCID links (`href="#"`)
 - Paper links and author lists
 - Member names and topics
+
+## Team pages (for group members)
+
+Everyone has their own page at `team/<your-name>.html`, filled in from one file: `team/<your-name>/profile.md`.
+You only ever edit that file and upload things to your own folder.
+
+1. Ask Jack to add you to the GitHub organisation (write access).
+2. Open `team/<your-name>/profile.md` on GitHub, click the pencil icon, edit, then **Commit changes**.
+   The note at the top of the file explains every field. It is invisible on the site.
+3. Upload your photo, CV and any images (art, project pictures) into `team/<your-name>/`
+   with **Add file > Upload files**. Replace `photo.jpg` to change your photo.
+4. Your papers appear automatically if `paper_name` matches how your name is written in author lists.
+   The paper list itself lives in `data/papers.json` (Jack maintains it).
+
+New member: copy an existing `team/<name>.html` and `team/<name>/` folder, rename both to the new slug,
+change `data-slug="..."` inside the .html file, edit the new profile.md, and add a card to `people.html`.
